@@ -1,0 +1,16 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+pydantic-settings
+PyJWT[crypto]
+pwdlib[argon2]
+python-multipart
+pandas
+scikit-learn
+joblib
+openpyxl
+reportlab
+email-validator
+pytest
+httpx

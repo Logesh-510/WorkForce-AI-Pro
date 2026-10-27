@@ -1,0 +1,23 @@
+﻿__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+*.log
+
+# Local test databases
+backend/workforce_test.db
+backend/*.db
+
+# Local environment configuration
+backend/.env
+
+# Temporary local account-management scripts
+backend/create_admin.py
+backend/reset_admin_password.py
+backend/reset_employee_password.py
