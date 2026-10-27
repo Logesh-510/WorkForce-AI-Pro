@@ -21,3 +21,6 @@ backend/.env
 backend/create_admin.py
 backend/reset_admin_password.py
 backend/reset_employee_password.py
+# Generated machine-learning model artifacts
+artifacts/
+
